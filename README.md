@@ -45,6 +45,12 @@ Due to an unexpected family medical emergency, the project timeline was accelera
 - **Current Status:** Pipeline implemented and evaluated; continuing to deepen understanding of TensorFlow and Scikit-learn internals.
 - **Goal:** Treat this project as a foundation for further study in Computer Vision beyond WiDS 5.0.
 
----
+
+## 🔗 Project Links
+
+- [Week 3 Google Colab Notebook (Linear Regression & Neural Network)](https://colab.research.google.com/drive/1vyptkj6B5_vC1bczxqLLQLkIGon1M_Td?usp=sharing)
+- [Week 4 Colab Notebook (The "AI Eye" for Handwritten Digits)](https://colab.research.google.com/drive/1QNIu577lX3q1tuZhzKZasrXS_iKH4I2l?usp=sharing)
+- [Final Project Link ](https://www.kaggle.com/code/codeacc/final-assignment)
+
 
 
