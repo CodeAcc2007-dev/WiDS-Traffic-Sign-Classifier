@@ -38,12 +38,12 @@ This document summarizes the week-by-week progress of the project, including dat
 - **Visualization:** Plotted accuracy and loss over epochs to check for stability and overfitting.
 - **Model Export:** Saved final weights in `.h5` format for deployment.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Python
 - **Libraries:** TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, PIL
 - **Hardware:** Lenovo Legion 5 (RTX 4070 GPU) for local experimentation
 
-## 📝 Reflection & Acknowledgments
+##  Reflection & Acknowledgments
 
 Due to an unexpected family medical emergency, the project timeline was accelerated toward the end. Despite this, the pipeline was implemented and delivered with strong results.
 
@@ -51,7 +51,7 @@ Due to an unexpected family medical emergency, the project timeline was accelera
 - **Current Status:** Pipeline implemented and evaluated; continuing to deepen understanding of TensorFlow and Scikit-learn internals.
 - **Goal:** Treat this project as a foundation for further study in Computer Vision beyond WiDS 5.0.
 
-## 🔗 Project Links
+##  Project Links
 
 - [Week 3 Google Colab Notebook (Linear Regression & Neural Network)](https://colab.research.google.com/drive/1vyptkj6B5_vC1bczxqLLQLkIGon1M_Td?usp=sharing)
 - [Week 4 Colab Notebook (The "AI Eye" for Handwritten Digits)](https://colab.research.google.com/drive/1QNIu577lX3q1tuZhzKZasrXS_iKH4I2l?usp=sharing)
